@@ -12,4 +12,4 @@ CSS
 JavaScript
 
 # Usage
-https://tha6unportfolio.netlify.app/
+https://tha6undev.vercel.app
